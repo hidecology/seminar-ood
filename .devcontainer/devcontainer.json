@@ -1,0 +1,9 @@
+{
+    "name": "Marp setting",
+    "settings": {
+
+    },
+    "extensions": [
+        "marp-team.marp-vscode"
+    ]
+}
